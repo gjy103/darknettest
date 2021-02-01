@@ -1,0 +1,8 @@
+?文:           https://arxiv.org/abs/2004.10934v1
+github地址:    https://github.com/AlexeyAB/darknet
+VOC?据集制作  https://blog.csdn.net/liuweizj12/article/details/53233900?utm_source=blogxgwz7
+cpu配置yolov4 https://blog.csdn.net/sinat_34897952/article/details/107191303
+
+
+predict指令 darknet.exe detect {cfg/yolov4.cfg} {yolov4.weights} {p1.jpg}
+??        darknet detector train {data/obj.data} {cfg/yolo-obj.cfg} {yolov4.conv.137}

@@ -1,0 +1,6 @@
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/dark.dir
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/uselib.dir
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/INSTALL.dir
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/darknet.dir
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/ALL_BUILD.dir
+D:/python WorkSpace/darknet/darknet-master/CMakeFiles/ZERO_CHECK.dir

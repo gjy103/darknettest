@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{FBB3E60E-8578-364C-ACF5-2A4C4E002D57}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>uselib_track</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\python WorkSpace\darknet\darknet-master\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">uselib_track.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">uselib_track</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\python WorkSpace\darknet\darknet-master\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">uselib_track.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">uselib_track</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\python WorkSpace\darknet\darknet-master\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">uselib_track.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">uselib_track</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\python WorkSpace\darknet\darknet-master\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">uselib_track.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">uselib_track</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4013;4018;4028;4047;4068;4090;4101;4113;4133;4190;4244;4267;4305;4477;4996;4819</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>Debug\darknetd.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412d.lib;3rdparty\pthreads\lib\pthreadVC2.lib;wsock32.lib;ws2_32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/python WorkSpace/darknet/darknet-master/Debug/uselib_track.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/python WorkSpace/darknet/darknet-master/Debug/uselib_track.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DisableSpecificWarnings>4013;4018;4028;4047;4068;4090;4101;4113;4133;4190;4244;4267;4305;4477;4996;4819</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>Release\darknet.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;3rdparty\pthreads\lib\pthreadVC2.lib;wsock32.lib;ws2_32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/python WorkSpace/darknet/darknet-master/Release/uselib_track.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/python WorkSpace/darknet/darknet-master/Release/uselib_track.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DisableSpecificWarnings>4013;4018;4028;4047;4068;4090;4101;4113;4133;4190;4244;4267;4305;4477;4996;4819</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>MinSizeRel\darknet.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;3rdparty\pthreads\lib\pthreadVC2.lib;wsock32.lib;ws2_32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/python WorkSpace/darknet/darknet-master/MinSizeRel/uselib_track.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/python WorkSpace/darknet/darknet-master/MinSizeRel/uselib_track.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4013;4018;4028;4047;4068;4090;4101;4113;4133;4190;4244;4267;4305;4477;4996;4819</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;TRACK_OPTFLOW=1;USE_CMAKE_LIBS;_CRT_RAND_S;NOMINMAX;_USE_MATH_DEFINES;OPENCV;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\python WorkSpace\darknet\darknet-master\include;D:\python WorkSpace\darknet\darknet-master\src;D:\python WorkSpace\darknet\darknet-master\3rdparty\stb\include;D:\opencv\opencv\build\include;D:\opencv\opencv\build\include\opencv;D:\python WorkSpace\darknet\darknet-master\3rdparty\pthreads\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>RelWithDebInfo\darknet.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;D:\opencv\opencv\build\x64\vc15\lib\opencv_world3412.lib;3rdparty\pthreads\lib\pthreadVC2.lib;wsock32.lib;ws2_32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/python WorkSpace/darknet/darknet-master/RelWithDebInfo/uselib_track.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/python WorkSpace/darknet/darknet-master/RelWithDebInfo/uselib_track.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\python WorkSpace\darknet\darknet-master\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/python WorkSpace/darknet/darknet-master/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\bin\cmake.exe "-SD:/python WorkSpace/darknet/darknet-master" "-BD:/python WorkSpace/darknet/darknet-master" --check-stamp-file "D:/python WorkSpace/darknet/darknet-master/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\opencv\opencv\build\OpenCVConfig-version.cmake;D:\opencv\opencv\build\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-debug.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-release.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCXXCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeRCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeSystem.cmake;D:\python WorkSpace\darknet\darknet-master\DarknetConfig.cmake.in;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindPThreads_windows.cmake;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindStb.cmake;D:\python WorkSpace\darknet\darknet-master\src\version.h.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCXXInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCommonLanguageInclude.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeGenericSystem.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeInitializeConfigs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeLanguageInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakePackageConfigHelpers.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeParseImplicitLinkInfo.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeRCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInitialize.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckCSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckIncludeFile.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLanguage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLibraryExists.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindOpenMP.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageHandleStandardArgs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageMessage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindThreads.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Internal\CheckSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\WindowsPaths.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\SelectLibraryConfigurations.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\python WorkSpace\darknet\darknet-master\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/python WorkSpace/darknet/darknet-master/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\bin\cmake.exe "-SD:/python WorkSpace/darknet/darknet-master" "-BD:/python WorkSpace/darknet/darknet-master" --check-stamp-file "D:/python WorkSpace/darknet/darknet-master/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\opencv\opencv\build\OpenCVConfig-version.cmake;D:\opencv\opencv\build\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-debug.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-release.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCXXCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeRCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeSystem.cmake;D:\python WorkSpace\darknet\darknet-master\DarknetConfig.cmake.in;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindPThreads_windows.cmake;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindStb.cmake;D:\python WorkSpace\darknet\darknet-master\src\version.h.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCXXInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCommonLanguageInclude.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeGenericSystem.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeInitializeConfigs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeLanguageInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakePackageConfigHelpers.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeParseImplicitLinkInfo.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeRCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInitialize.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckCSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckIncludeFile.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLanguage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLibraryExists.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindOpenMP.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageHandleStandardArgs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageMessage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindThreads.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Internal\CheckSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\WindowsPaths.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\SelectLibraryConfigurations.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\python WorkSpace\darknet\darknet-master\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/python WorkSpace/darknet/darknet-master/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\bin\cmake.exe "-SD:/python WorkSpace/darknet/darknet-master" "-BD:/python WorkSpace/darknet/darknet-master" --check-stamp-file "D:/python WorkSpace/darknet/darknet-master/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\opencv\opencv\build\OpenCVConfig-version.cmake;D:\opencv\opencv\build\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-debug.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-release.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCXXCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeRCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeSystem.cmake;D:\python WorkSpace\darknet\darknet-master\DarknetConfig.cmake.in;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindPThreads_windows.cmake;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindStb.cmake;D:\python WorkSpace\darknet\darknet-master\src\version.h.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCXXInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCommonLanguageInclude.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeGenericSystem.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeInitializeConfigs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeLanguageInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakePackageConfigHelpers.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeParseImplicitLinkInfo.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeRCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInitialize.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckCSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckIncludeFile.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLanguage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLibraryExists.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindOpenMP.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageHandleStandardArgs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageMessage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindThreads.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Internal\CheckSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\WindowsPaths.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\SelectLibraryConfigurations.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\python WorkSpace\darknet\darknet-master\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/python WorkSpace/darknet/darknet-master/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\bin\cmake.exe "-SD:/python WorkSpace/darknet/darknet-master" "-BD:/python WorkSpace/darknet/darknet-master" --check-stamp-file "D:/python WorkSpace/darknet/darknet-master/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\opencv\opencv\build\OpenCVConfig-version.cmake;D:\opencv\opencv\build\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVConfig.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-debug.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules-release.cmake;D:\opencv\opencv\build\x64\vc15\lib\OpenCVModules.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeCXXCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeRCCompiler.cmake;D:\python WorkSpace\darknet\darknet-master\CMakeFiles\3.19.2\CMakeSystem.cmake;D:\python WorkSpace\darknet\darknet-master\DarknetConfig.cmake.in;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindPThreads_windows.cmake;D:\python WorkSpace\darknet\darknet-master\cmake\Modules\FindStb.cmake;D:\python WorkSpace\darknet\darknet-master\src\version.h.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCXXInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeCommonLanguageInclude.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeGenericSystem.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeInitializeConfigs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeLanguageInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakePackageConfigHelpers.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeParseImplicitLinkInfo.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeRCInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInformation.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CMakeSystemSpecificInitialize.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckCSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckIncludeFile.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLanguage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\CheckLibraryExists.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Compiler\MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindOpenMP.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageHandleStandardArgs.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindPackageMessage.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\FindThreads.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Internal\CheckSourceCompiles.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-C.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC-CXX.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows-MSVC.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\Windows.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\Platform\WindowsPaths.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\SelectLibraryConfigurations.cmake;D:\tools\cmake-3.19.2-win64-x64\cmake-3.19.2-win64-x64\share\cmake-3.19\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\python WorkSpace\darknet\darknet-master\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\python WorkSpace\darknet\darknet-master\src\yolo_console_dll.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\python WorkSpace\darknet\darknet-master\ZERO_CHECK.vcxproj">
+      <Project>{D3CE26D9-A5D0-3115-AB79-6D26F00DC1C9}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="D:\python WorkSpace\darknet\darknet-master\dark.vcxproj">
+      <Project>{06216A89-FF1A-39A2-81FC-84D606CEB484}</Project>
+      <Name>dark</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,10 @@
+D:/python WorkSpace/darknet/darknet-master/darknet.lib
+D:/python WorkSpace/darknet/darknet-master/darknet.dll
+D:/python WorkSpace/darknet/darknet-master/include/darknet/darknet.h
+D:/python WorkSpace/darknet/darknet-master/include/darknet/yolo_v2_class.hpp
+D:/python WorkSpace/darknet/darknet-master/uselib.exe
+D:/python WorkSpace/darknet/darknet-master/darknet.exe
+D:/python WorkSpace/darknet/darknet-master/share/darknet/DarknetTargets.cmake
+D:/python WorkSpace/darknet/darknet-master/share/darknet/DarknetTargets-release.cmake
+D:/python WorkSpace/darknet/darknet-master/share/darknet/DarknetConfig.cmake
+D:/python WorkSpace/darknet/darknet-master/share/darknet/DarknetConfigVersion.cmake
