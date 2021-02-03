@@ -1,0 +1,1305 @@
+﻿  activations.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.c(193): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\activations.c(221): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\activations.c(388): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.c(389): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  activation_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  art.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  avgpool_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  batchnorm_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(112): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(127): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(190): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(191): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(192): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(193): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\batchnorm_layer.c(206): warning C4028: 形参 1 与声明不同
+  blas.c
+d:\python workspace\darknet\darknet-master\src\blas.c(103): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(171): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(278): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(313): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(399): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(392): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(409): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(410): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(420): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(463): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(537): warning C4018: “<”: 有符号/无符号不匹配
+d:\python workspace\darknet\darknet-master\src\blas.c(550): warning C4018: “<”: 有符号/无符号不匹配
+d:\python workspace\darknet\darknet-master\src\blas.c(574): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\blas.c(597): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(597): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(597): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(597): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(597): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(597): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(611): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(611): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(611): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(611): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(611): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(611): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(643): warning C4305: “=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(641): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(651): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(651): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(651): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(651): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(674): warning C4305: “=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(672): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\blas.c(711): warning C4018: “<”: 有符号/无符号不匹配
+d:\python workspace\darknet\darknet-master\src\blas.c(762): warning C4018: “<”: 有符号/无符号不匹配
+d:\python workspace\darknet\darknet-master\src\blas.c(785): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(785): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(785): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\blas.c(785): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\blas.c(837): warning C4018: “<”: 有符号/无符号不匹配
+d:\python workspace\darknet\darknet-master\src\blas.c(880): warning C4018: “<”: 有符号/无符号不匹配
+  box.c
+d:\python workspace\darknet\darknet-master\src\box.c : warning C4819: 该文件包含不能在当前代码页(932)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\python workspace\darknet\darknet-master\src\box.c(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(206): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(225): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(250): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(260): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(261): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(262): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(263): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(277): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(278): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(283): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(356): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(357): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(358): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(359): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(365): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(367): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(370): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(372): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(374): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(376): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(379): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(381): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(433): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(434): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(435): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(436): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(585): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(633): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(634): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(635): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(636): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(620): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(621): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(622): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(623): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(625): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(655): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(656): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(657): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(658): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(642): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(643): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(644): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(645): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(647): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(684): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(685): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(686): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(687): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(667): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(668): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(669): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(670): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(672): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\box.c(896): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(897): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(898): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(937): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(938): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(947): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\box.c(948): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  captcha.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\captcha.c(31): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\captcha.c(87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\captcha.c(88): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 5 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\captcha.c(88): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\captcha.c(88): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\captcha.c(88): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\captcha.c(41): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  cifar.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(32): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(32): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(32): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(32): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\cifar.c(34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(24): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(57): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(79): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(88): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(88): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(88): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\cifar.c(88): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\cifar.c(90): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(72): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(77): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\cifar.c(118): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(149): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(193): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cifar.c(220): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  classifier.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(41): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(58): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(211): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\classifier.c(211): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\classifier.c(211): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\classifier.c(211): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\classifier.c(394): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(463): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(537): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(611): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(684): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(777): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\classifier.c(778): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\classifier.c(855): warning C4101: “time”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\classifier.c(913): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(951): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\classifier.c(1368): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  coco.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(22): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(32): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(117): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(118): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(110): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(145): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(171): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\coco.c(246): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\coco.c(274): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\coco.c(343): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\coco.c(396): warning C4305: “函数”: 从“double”到“float”截断
+  col2im.c
+  compare.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(57): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 5 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\compare.c(57): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\compare.c(57): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\compare.c(57): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\compare.c(65): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(70): warning C4305: “*=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\compare.c(43): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(88): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(198): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(199): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(234): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\compare.c(266): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  connected_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\connected_layer.c(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\connected_layer.c(251): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  convolutional_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(46): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(59): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(69): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(786): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(576): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(858): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1052): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1074): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1085): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1090): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1204): warning C4267: “函数”: 从“size_t”转换到“const int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1211): warning C4028: 形参 1 与声明不同
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1283): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1298): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1301): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1344): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1433): warning C4244: “初始化”: 从“uint64_t”转换到“const int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1441): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1468): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1469): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1470): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\convolutional_layer.c(1471): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  conv_lstm_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\conv_lstm_layer.c(237): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\conv_lstm_layer.c(238): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\conv_lstm_layer.c(747): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+  cost_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\cost_layer.c(75): warning C4028: 形参 1 与声明不同
+  cpu_gemm.c
+  crnn_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  crop_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\crop_layer.c(54): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\crop_layer.c(55): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  darknet.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(75): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(76): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(78): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(79): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(80): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(84): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(85): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\darknet.c(495): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\darknet.c(524): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  dark_cuda.c
+  data.c
+d:\python workspace\darknet\darknet-master\src\data.c(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(282): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(459): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(460): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(464): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(465): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(466): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(723): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(724): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(725): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(726): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(745): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(720): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(721): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(723): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(724): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(725): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(726): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(842): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(843): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(844): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(845): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(863): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(839): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(840): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(842): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(843): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(844): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(845): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(962): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(970): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(974): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(976): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(982): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(986): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(988): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(989): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1024): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1025): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1026): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1027): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(945): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(946): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(947): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(948): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1452): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1465): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1466): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1467): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1468): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1472): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1472): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1473): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1473): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1474): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1474): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1475): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1475): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1478): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1478): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1479): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1479): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1480): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1480): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1481): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1481): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1494): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1495): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1502): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1503): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1524): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1524): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1427): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1428): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1432): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1433): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1436): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1437): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1465): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1466): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1467): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1468): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1549): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1550): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1551): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1552): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1873): warning C4244: “函数”: 从“const float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1874): warning C4244: “函数”: 从“const float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1916): warning C4244: “函数”: 从“const float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1917): warning C4244: “函数”: 从“const float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(1871): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\data.c(1872): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\data.c(1915): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\data.c(2093): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(2097): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\data.c(2126): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(2127): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\data.c(2157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\data.c(2164): warning C4305: “函数”: 从“double”到“float”截断
+  deconvolutional_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\deconvolutional_layer.c(65): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\deconvolutional_layer.c(158): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  demo.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  detection_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(44): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(84): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(99): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(160): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(161): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(163): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(174): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(178): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(80): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(240): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(304): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detection_layer.c(305): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  detector.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(63): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(70): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(89): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(124): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(125): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(126): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(253): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(302): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(304): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(196): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(200): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(201): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(204): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(205): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(298): warning C4244: “初始化”: 从“int64_t”转换到“const int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(474): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(475): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(467): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(468): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(469): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(470): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(504): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(505): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(497): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(498): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(499): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(500): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(525): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(526): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(518): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(519): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(520): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(521): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(554): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(555): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(547): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(548): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(549): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(550): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(616): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(617): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(609): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(610): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(611): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(612): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(654): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(724): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(725): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(843): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(858): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(860): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(967): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(1393): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(995): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(996): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\detector.c(1443): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\detector.c(1640): warning C4305: “初始化”: 从“double”到“float”截断
+  dice.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\dice.c(9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\dice.c(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\dice.c(36): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 5 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\dice.c(36): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\dice.c(36): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\dice.c(36): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\dice.c(38): warning C4305: “*=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\dice.c(20): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\dice.c(53): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  dropout_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\dropout_layer.c(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  gaussian_yolo_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(87): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(196): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(294): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(295): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(185): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(186): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(217): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(218): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(221): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(222): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(225): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(226): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(229): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(230): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(232): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(233): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(235): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(248): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(250): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(251): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(253): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(254): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(375): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(385): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(384): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(424): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(428): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(507): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(538): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(539): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(544): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(545): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(548): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(549): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(685): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(468): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(499): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(521): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(600): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(663): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(682): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(687): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(736): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(737): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(823): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gaussian_yolo_layer.c(824): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  gemm.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(336): warning C4244: “return”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(395): warning C4068: 未知的杂注
+d:\python workspace\darknet\darknet-master\src\gemm.c(398): warning C4068: 未知的杂注
+d:\python workspace\darknet\darknet-master\src\gemm.c(423): warning C4244: “return”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(928): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(929): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(930): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(931): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(932): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(933): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(934): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(935): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(1056): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(1040): warning C4101: “all256_last_zero”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\gemm.c(1045): warning C4101: “all256_one”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\gemm.c(1043): warning C4101: “idx256”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\gemm.c(1046): warning C4101: “all256i_one”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\gemm.c(1144): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(1183): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(1200): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\gemm.c(1644): warning C4101: “all256_sing1”: 未引用的局部变量
+d:\python workspace\darknet\darknet-master\src\gemm.c(1779): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  getopt.c
+  gettimeofday.c
+d:\python workspace\darknet\darknet-master\src\gettimeofday.c(39): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  go.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(118): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(144): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(145): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\go.c(145): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\go.c(145): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\go.c(145): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\go.c(147): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(137): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(198): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(199): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(200): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(201): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(307): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(404): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(442): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(539): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\go.c(615): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(690): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(764): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\go.c(802): warning C4305: “函数”: 从“double”到“float”截断
+  gru_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  im2col.c
+  image.c
+d:\python workspace\darknet\darknet-master\src\image.c(31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(32): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(119): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(136): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(205): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(256): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(257): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(258): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(259): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(429): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(447): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(449): warning C4305: “函数”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(454): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(369): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(395): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(396): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(397): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(398): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(485): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(519): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(482): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(502): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(503): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(504): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(505): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(585): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(589): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(807): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(818): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(837): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(838): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(843): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(844): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(856): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(857): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(862): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(863): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(909): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1062): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1065): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1067): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1068): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1118): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1142): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1173): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(1189): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1375): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1447): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(1448): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(1449): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(1450): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\image.c(1516): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\image.c(1702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  list.c
+  local_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\local_layer.c(57): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  lstm_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  matrix.c
+  maxpool_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\maxpool_layer.c(145): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  network.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(67): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(115): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(120): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(136): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(141): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(151): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(153): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(157): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(159): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(433): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(462): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\network.c(994): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\network.c(1022): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1023): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1179): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1180): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1266): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\network.c(1288): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1297): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1295): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\network.c(1335): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\python workspace\darknet\darknet-master\src\network.c(1649): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  nightmare.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(14): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(180): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(197): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\nightmare.c(200): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\nightmare.c(201): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\nightmare.c(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(219): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(245): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\nightmare.c(272): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(297): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\nightmare.c(297): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  normalization_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  option_list.c
+d:\python workspace\darknet\darknet-master\src\option_list.c(142): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\option_list.c(149): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  parser.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(189): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(363): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(394): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(426): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(490): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(500): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(510): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(510): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(513): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(534): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(542): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(555): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(620): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(639): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(652): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(659): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(688): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(711): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(718): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(743): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(879): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(882): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(904): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(944): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1067): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1140): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1141): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1144): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1145): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1172): warning C4244: “=”: 从“float”转换到“size_t”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1176): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1177): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1178): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\parser.c(1207): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1246): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(1379): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2066): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2070): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2072): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2074): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2092): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\parser.c(2114): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  region_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(50): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(107): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(167): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(172): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(268): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(287): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(288): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(295): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\region_layer.c(313): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(314): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(232): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(263): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(302): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(495): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(496): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\region_layer.c(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  reorg_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\reorg_layer.c(26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  reorg_old_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\reorg_old_layer.c(26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  rnn.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(127): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(165): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 5 拥有了类型“size_t”
+  d:\python workspace\darknet\darknet-master\src\rnn.c(165): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\rnn.c(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(162): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(249): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(379): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(347): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(358): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(420): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(399): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(410): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(451): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\rnn.c(484): warning C4305: “函数”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\rnn.c(485): warning C4244: “函数”: 从“time_t”转换到“int”，可能丢失数据
+  rnn_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  rnn_vid.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  route_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  sam_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  scale_channels_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  shortcut_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\shortcut_layer.c(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\shortcut_layer.c(55): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  softmax_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(203): warning C4477: “fprintf”: 格式字符串“%4d”需要类型“int”的参数，但可变参数 7 拥有了类型“const size_t”
+  d:\python workspace\darknet\darknet-master\src\softmax_layer.c(203): note: 请考虑在格式字符串中使用“%zd”
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(377): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(436): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(469): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(518): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(521): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\softmax_layer.c(544): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  super.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\super.c(11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\super.c(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\super.c(21): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  swag.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\swag.c(12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\swag.c(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\swag.c(22): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  tag.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\tag.c(7): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\tag.c(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\tag.c(66): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\tag.c(66): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\tag.c(66): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\tag.c(66): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\tag.c(69): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\tag.c(54): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  tree.c
+  upsample_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  utils.c
+d:\python workspace\darknet\darknet-master\src\utils.c(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(248): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(249): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(426): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(440): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(470): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(481): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(492): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(502): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(558): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(559): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(560): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(631): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(632): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(640): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(647): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(670): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(683): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(697): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(710): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(789): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(799): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(846): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1016): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1017): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1018): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1019): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1023): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\utils.c(1025): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  voxel.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\voxel.c(46): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\voxel.c(89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\voxel.c(56): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  writing.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\writing.c(8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\writing.c(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\writing.c(68): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 7 拥有了类型“uint64_t”
+  d:\python workspace\darknet\darknet-master\src\writing.c(68): note: 请考虑在格式字符串中使用“%lld”
+  d:\python workspace\darknet\darknet-master\src\writing.c(68): note: 请考虑在格式字符串中使用“%Id”
+  d:\python workspace\darknet\darknet-master\src\writing.c(68): note: 请考虑在格式字符串中使用“%I64d”
+d:\python workspace\darknet\darknet-master\src\writing.c(76): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\writing.c(39): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  yolo.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(25): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(97): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(98): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(92): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(115): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(141): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\yolo.c(215): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo.c(234): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\yolo.c(298): warning C4305: “初始化”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\yolo.c(350): warning C4305: “函数”: 从“double”到“float”截断
+  yolo_layer.c
+d:\python workspace\darknet\darknet-master\src\activations.h(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(72): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(114): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(115): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\activations.h(126): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(83): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(202): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(247): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(248): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(314): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(346): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(468): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(523): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(524): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(432): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(496): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(518): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(540): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(549): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(599): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(682): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(767): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(770): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(777): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(778): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(793): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(796): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(798): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(835): warning C4305: “+=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(839): warning C4305: “-=”: 从“double”到“float”截断
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(903): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(748): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(756): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(758): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(801): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(821): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(862): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(893): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(895): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(978): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(979): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(966): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(968): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\yolo_layer.c(1085): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  http_stream.cpp
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(110): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(202): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(236): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(237): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(248): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(249): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(261): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(262): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\python workspace\darknet\darknet-master\src\http_stream.cpp(655): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+  image_opencv.cpp
+  正在生成代码...
+  darknet_no_gpu.vcxproj -> D:\python WorkSpace\darknet\darknet-master\build\darknet\x64\darknet_no_gpu.exe

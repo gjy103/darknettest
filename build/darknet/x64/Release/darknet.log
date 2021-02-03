@@ -1,0 +1,1 @@
+﻿D:\python WorkSpace\darknet\darknet-master\build\darknet\darknet.vcxproj(55,5): error MSB4019: 未找到导入的项目“C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\BuildCustomizations\CUDA 11.1.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。

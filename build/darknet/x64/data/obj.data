@@ -1,0 +1,5 @@
+classes= 2
+train  = data/2021_train.txt
+valid  = data/2021_test.txt
+names = data/obj.names
+backup = backup/
